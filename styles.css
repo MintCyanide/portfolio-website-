@@ -63,8 +63,7 @@ margin-top: 20px;
 
 .banner{
   background-color: #1F1F1F;
-	
-text-align: center;
+	text-align: center;
 }
 
 .BANNER2{
@@ -115,20 +114,24 @@ height: 600px;
 .PORTFOLIOimg01{
 	float: left;
 	margin: 10px;
+	text-align: center;
 }
 
 .PORTFOLIOimg02{
 	float: left;
 	margin: 10px;
+	text-align: center;
 }
 
 .PORTFOLIOimg03{
 	float: left;
 	margin: 10px 40px;
+	text-align: center;
 }
 .PORTFOLIOimg04{
 	float: left;
 	margin: 10px;
+	text-align: center;
 }
 
 
