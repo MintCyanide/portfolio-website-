@@ -1,0 +1,212 @@
+body{
+
+background-color:#2C292E;
+	margin: 0
+}
+
+
+{
+  outline:1px dotted lime;
+}
+
+.header{
+	height: 100px;
+	background-color: #151515;
+}
+
+.nav{
+  width: 960px;
+	height: 200px;
+  margin-left: auto;
+  margin-right: 40px;
+    color: #f2f1f3;
+}
+
+.logo{
+  float:left;
+  font-size: 1.4rem;
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman",
+	"serif";
+  margin-top: 50px;
+	margin-bottom: 40px;
+	margin-left: 80px;
+  text-align: center;
+
+}
+
+.logoimg{
+  float: left;
+margin-top: 20px;
+	margin-left: 80px;
+	margin-right: 10px;
+  text-align:right;
+
+}
+
+.links{
+
+  float: left;
+  font-size: 0.7rem;
+  color: #484e61;
+	margin-right: 150px;
+  text-align: center;
+	width: 500px
+}
+
+.links a{
+  color: white;
+  text-decoration: none;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+.banner{
+  background-color: #1F1F1F;
+	
+text-align: center;
+}
+
+.BANNER2{
+	background-color: #1f1f1f;
+height: 200px;
+	margin-top: 80px;
+	text-align: center;
+}
+
+.BANNERIMAGE{
+	text-align: center;
+	margin: auto;
+	
+}
+.SERVICES{
+	background-color: #1f1f1f;
+height: 200px;
+	margin-top: 80px;
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: center;
+}
+.servicestitle{
+	padding: 15px ;
+	font-size: 1.4rem;
+font-family:
+	Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: firebrick;
+}
+
+.Lorem01{
+	color:#5E5E5E;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 10px 20px;
+	font-size: 1rem;
+}
+
+.PORTFOLIO{
+	background-color: #1f1f1f;
+height: 600px;
+	margin-top: 40px;
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: center;
+	
+}
+
+.PORTFOLIOimg01{
+	float: left;
+	margin: 10px;
+}
+
+.PORTFOLIOimg02{
+	float: left;
+	margin: 10px;
+}
+
+.PORTFOLIOimg03{
+	float: left;
+	margin: 10px 40px;
+}
+.PORTFOLIOimg04{
+	float: left;
+	margin: 10px;
+}
+
+
+.portfoliotitle{
+	padding: 15px ;
+	font-size: 1.4rem;
+font-family:
+	Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:firebrick;
+}
+
+.ABOUT{
+	background-color: #1f1f1f;
+height: 200px;
+	margin-top: 80px;
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: center;
+	
+}
+
+.abouttitle{
+	padding: 15px ;
+	font-size: 1.4rem;
+font-family:
+	Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:firebrick;
+}
+
+.lorem02{
+	color:#5E5E5E;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 10px 20px;
+	font-size: 1rem;
+}
+	
+
+.CONTACT{
+background-color: #1f1f1f;
+height: 200px;
+	margin-top: 80px;
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: center;
+	
+}
+
+.contacttitle{
+	padding: 15px;
+	font-size: 1.4rem;
+font-family:
+	Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:firebrick;
+}
+
+.contactdetails{
+	color:#5E5E5E;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 10px 20px;
+	font-size: 1rem;
+	padding-bottom: 12px;
+}
+@media screen and (max width:480px) {
+
+  .logo{
+    float: none;
+    font-size: 1.4rem;
+    margin-top: 0;
+    padding-top: 15px;
+    text-align: center;
+  }
+  .links{
+
+    float: none;
+    font-size: 0.7rem;
+    color: #484e61;
+    margin-top: 42px;
+	  
+    text-align: center;
+  }
+}
